@@ -3,7 +3,16 @@
 ## Projects
 
 ### Block Blast Solver
-A web-based tool that analyzes puzzle boards and suggests placements to avoid dead-end states.
+Block Blast Solver is an online tool that analyzes Block Blast puzzle boards and suggests optimal placements to help players avoid dead ends, maintain combos, survive longer and achieve higher scores.
+
+**Key Features**
+•	Board analysis for Block Blast puzzles
+•	Screenshot or manual board input
+•	Auto Block Recognition
+•	Advanced Solving Algorithm
+•	Helps maintain combo streaks
+•	Instant placement suggestions
+•	Simple browser-based tool with no installation required
 
 🔗 Website  
 https://www.aiblockblastsolver.com
